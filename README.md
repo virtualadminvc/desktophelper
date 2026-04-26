@@ -53,7 +53,7 @@ A simple desktop tool that displays your computer\&\#39;s uptime and custom to\-
 
 2. Extract the ZIP file to a folder of your choice\.
 
-3. Run `DesktopReminderTimer\.exe` to start the program\.
+3. Run `Desktophelper.exe` to start the program\.
 
 ## 🤝 Contributing
 
@@ -120,7 +120,7 @@ This project is licensed under the MIT License\.
 
 2. 将压缩包解压到任意文件夹。
 
-3. 运行 `DesktopReminderTimer\.exe` 启动程序。
+3. 运行 `Desktophelper.exe` 启动程序。
 
 ## 🤝 贡献
 
